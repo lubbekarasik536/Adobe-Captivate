@@ -206,3 +206,6 @@ This repository serves as the official landing page for Adobe Captivate. The sof
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Adobe Captivate today!**
+
+---
+**Last updated:** 2026-11-08 02:49:44 UTC
