@@ -208,4 +208,4 @@ This repository serves as the official landing page for Adobe Captivate. The sof
 **Get the most recent version of Adobe Captivate today!**
 
 ---
-**Last updated:** 2026-11-09 07:18:20 UTC
+**Last updated:** 2026-11-09 17:51:38 UTC
